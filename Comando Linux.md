@@ -13,14 +13,4 @@ Bitacora de comandos Linux - Sistemas Operativos 2023 - ULACIT
 |  Top                        |                                                         |     |
 |  htop                       |                                                         |     |
 |  pstree                     |                                                         |     |
-|                             |                                                         |     |
-|                             |                                                         |     |
-|                             |                                                         |     |
-|                             |                                                         |     |
-|                             |                                                         |     |
-|                             |                                                         |     |
-|                             |                                                         |     |
-|                             |                                                         |     |
-|                             |                                                         |     |
-|                             |                                                         |     |
-|                             |                                                         |     |
+
